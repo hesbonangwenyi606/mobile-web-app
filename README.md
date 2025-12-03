@@ -26,7 +26,7 @@ A minimal **React + TypeScript + Vite** mobile web application template with **T
 - **Build Tool:** Vite
 - **Styling:** Tailwind CSS, PostCSS
 - **Linting:** ESLint
-- **Version Control:** Gi
+- **Version Control:** 
 
 ## Project Structure
 ## Getting Starteds
