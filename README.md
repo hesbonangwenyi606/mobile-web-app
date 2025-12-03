@@ -1,5 +1,4 @@
 # Mobile Web App
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 [Live Demo](https://celadon-chaja-e416dc.netlify.app/)
 
