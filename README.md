@@ -42,9 +42,6 @@ A minimal **React + TypeScript + Vite** mobile web application template with **T
 
 ## Project Structure
 
-
----
-
 ## Getting Started
 
 ### Prerequisites
