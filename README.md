@@ -19,7 +19,6 @@ A minimal **React + TypeScript + Vite** mobile web application template with **T
 
 
 ## Features
-
 - React with **TypeScript**
 - **Vite** for fast bundling and HMR
 - **Tailwind CSS** for utility-first styling
