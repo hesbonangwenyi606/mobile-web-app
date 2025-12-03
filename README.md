@@ -5,8 +5,6 @@
 
 A minimal **React + TypeScript + Vite** mobile web application template with **Tailwind CSS** and ESLint pre-configured. Designed for rapid development and easy deployment.
 
----
-
 ## Table of Contents
 - [Features](#features)
 - [Tech Stack](#tech-stack)
