@@ -29,7 +29,6 @@ A minimal **React + TypeScript + Vite** mobile web application template with **T
 - Ready to deploy to **Netlify** or other hosting services
 
 ## Tech Stack
-
 - **Frontend:** React, TypeScript
 - **Build Tool:** Vite
 - **Styling:** Tailwind CSS, PostCSS
