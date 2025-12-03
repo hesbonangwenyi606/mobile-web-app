@@ -38,8 +38,6 @@ A minimal **React + TypeScript + Vite** mobile web application template with **T
 - **Linting:** ESLint
 - **Version Control:** Git / GitHub
 
----
-
 ## Project Structure
 
 ## Getting Started
