@@ -31,6 +31,7 @@ A minimal **React + TypeScript + Vite** mobile web application template with **T
 ## Getting Starteds
 ### Prerequisites
 
+
 Make sure you have **Node.js** and **npm** installed:
 ```bash
 node -v
