@@ -37,6 +37,7 @@ Make sure you have **Node.js** and **npm** installed:
 node -v
 npm -v
 
+
 Installation
 Clone the repository:
 git clone https://github.com/hesbonangwenyi606/mobile-web-app.git
