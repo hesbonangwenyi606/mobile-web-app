@@ -8,7 +8,6 @@ A minimal **React + TypeScript + Vite** mobile web application template with **T
 ---
 
 ## Table of Contents
-
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Project Structure](#project-structure)
