@@ -107,3 +107,7 @@ Commit your changes: git commit -m "Add your message"
 Push to the branch: git push origin feature/your-feature
 
 Open a Pull Request
+
+License
+
+This project is licensed under the MIT License. See LICENSE
