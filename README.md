@@ -78,7 +78,6 @@ npm run build
 
 
 This generates an optimized production build in the dist folder.
-
 Preview Production Build
 npm run preview
 
