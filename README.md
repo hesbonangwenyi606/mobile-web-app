@@ -36,9 +36,7 @@ A minimal **React + TypeScript + Vite** mobile web application template with **T
 - **Version Control:** Git / GitHub
 
 ## Project Structure
-
 ## Getting Started
-
 ### Prerequisites
 
 Make sure you have **Node.js** and **npm** installed:
