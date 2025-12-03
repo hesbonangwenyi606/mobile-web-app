@@ -92,22 +92,14 @@ npm run preview – Preview the production build
 
 npm run lint – Run ESLint to check code quality
 
-Contributing
-
+### Contributing
 Contributions are welcome! Please follow these steps:
-
 Fork the repository
-
 Create a new branch: git checkout -b feature/your-feature
-
 Make your changes
-
 Commit your changes: git commit -m "Add your message"
-
 Push to the branch: git push origin feature/your-feature
-
 Open a Pull Request
 
-License
-
+### License
 This project is licensed under the MIT License. See LICENSE
