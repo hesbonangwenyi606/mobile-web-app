@@ -54,3 +54,40 @@ Make sure you have **Node.js** and **npm** installed:
 ```bash
 node -v
 npm -v
+
+Installation
+
+Clone the repository:
+
+git clone https://github.com/hesbonangwenyi606/mobile-web-app.git
+cd mobile-web-app
+
+
+Install dependencies:
+
+npm install
+
+Running the App (Development Mode)
+npm run dev
+
+
+This starts the development server with hot module replacement (HMR). Open your browser at the URL displayed in the terminal.
+
+Building for Production
+npm run build
+
+
+This generates an optimized production build in the dist folder.
+
+Preview Production Build
+npm run preview
+
+Available Scripts
+
+npm run dev – Start the development server
+
+npm run build – Build the project for production
+
+npm run preview – Preview the production build
+
+npm run lint – Run ESLint to check code quality
