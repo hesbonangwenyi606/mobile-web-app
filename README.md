@@ -16,7 +16,6 @@ A minimal **React + TypeScript + Vite** mobile web application template with **T
 - [License](#license)
 - [Contributing](#contributing)
 
-
 ## Features
 - React with **TypeScript**
 - **Vite** for fast bundling and HMR
