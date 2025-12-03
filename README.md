@@ -28,8 +28,6 @@ A minimal **React + TypeScript + Vite** mobile web application template with **T
 - Mobile-friendly responsive layout
 - Ready to deploy to **Netlify** or other hosting services
 
----
-
 ## Tech Stack
 
 - **Frontend:** React, TypeScript
