@@ -64,7 +64,6 @@ cd mobile-web-app
 
 
 Install dependencies:
-
 npm install
 
 Running the App (Development Mode)
